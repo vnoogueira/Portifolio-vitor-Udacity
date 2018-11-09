@@ -6,5 +6,5 @@ Este é um projeot baseadoi no Nanodegree Desenvolvimento Full-Stack, onde criei
 - Acesso a internet
 
 # Instalação
-- Clone o projeto do repository do GitHub com o comando git clone [url_do_repositorio]. Ou se preferir entre no GitHub e baixe manualmente no botão clone or downlaod
+- Clone o projeto do repository do GitHub com o comando git clone [url_do_repositorio]. Ou se preferir entre no GitHub e baixe manualmente no botão clone or download
 - Com os arquivos em sua maquina, abra o arquivo Index.htmal em seu navegador.
